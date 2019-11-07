@@ -1,1 +1,2 @@
 This issue resolved
+add from cmd line
