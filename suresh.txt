@@ -1,2 +1,3 @@
 This issue resolved
 Add line by Abhinash
+add from cmd line
